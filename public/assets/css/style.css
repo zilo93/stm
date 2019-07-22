@@ -1,6 +1,13 @@
 h1{
-    color: red;
+    color: green;
 }
 .container-fluid{
     height: 120px;
+}
+.base{
+    background: #5eb5e0;
+    height: 120px;
+}
+.bas{
+    background: #5eb5e0;
 }
